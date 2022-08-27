@@ -4,5 +4,9 @@
 
 my form using React-hook-form 
 
+npm init vite
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm i -s react-hook-form react-icons axios
 
 Edit CSS Style with Tailwind
